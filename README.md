@@ -1,7 +1,13 @@
 <img align="right" height="590em" src="./.github/preview.png"/>
-<h1 align="left">NLW e-Sports</h1>
+<h1 align="center">
+<a href="https://github.com/rodrigoridasi">
+<img width="30%" alt="NLW e-Sports" src="./.github/nlw-esports-readme-header.png" />
+</a>
+</h1>
 
-Projeto realizado no evento Next Level Week e-Sports da 🚀 Rocketseat. [🔗 Clique aqui para acessar](https://rodrigoridasi.github.io/nlw-esports/)
+Projeto realizado no evento Next Level Week e-Sports da 🚀 Rocketseat. 
+
+[🔗 Clique aqui para acessar](https://rodrigoridasi.github.io/nlw-esports/)
 
 ## Tecnologias
 
